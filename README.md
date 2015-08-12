@@ -1,4 +1,4 @@
-# Testing Demo
+# Testing Demo.
 
 [![Dependency Status](https://gemnasium.com/cbas/demo-testing.png)](https://gemnasium.com/cbas/demo-testing)
 
